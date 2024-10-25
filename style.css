@@ -14,9 +14,9 @@ span {
 #logo { 
     border-radius: 100px;
     border: 15px solid rgb(4, 37, 1);
-    position: relative;
+    position: absolute;
     left: 100px;
-    bottom: 285px;
+    bottom: 645px;
 }
 
 body {
