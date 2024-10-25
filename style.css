@@ -1,0 +1,62 @@
+.header1 {
+    background-color: rgb(4, 63, 2);
+    font-size: 75px;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+    padding: 50px;
+}
+
+span {
+    font-size: 50px;
+}
+
+#logo { 
+    border-radius: 100px;
+    border: 15px solid rgb(4, 37, 1);
+    position: relative;
+    left: 100px;
+    bottom: 285px;
+}
+
+body {
+    background-color: #fcf0d1;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white; 
+    font-size: 50px;
+}
+
+.message {
+    color: rgb(1, 16, 1); 
+    font-size: 35px;
+    text-align: center;
+}
+
+.form { 
+    color: black; 
+    font-size: 25px;
+    text-align: Center;
+    line-height: 1.8;
+    border: 20px solid rgba(107, 92, 43, 0.252);
+    margin: 20px 0 20px 0;
+    padding: 30px 0 20px 0;
+}  
+
+a {
+    font-size: 20px;
+    color: rgba(4, 63, 2);
+    margin-left: 745px;
+}
+
+.footer { 
+    font-family: sans-serif;
+    color: white; 
+    font-size: 10px;
+    text-align: Center;
+    background-color: rgb(4, 63, 2);
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+
+}
